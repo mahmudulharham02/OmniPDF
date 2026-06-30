@@ -69,7 +69,7 @@ For issues, bug reports, or feature requests, please [open an issue](https://git
 
 ## 👨‍💻 Author
 
-**Mahmud ul Harham**
+**Hasan Arham**
 
 ---
 
