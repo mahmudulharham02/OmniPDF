@@ -1,0 +1,6 @@
+{
+  "name": "OmniPDF",
+  "description": "Professional, high-performance, and entirely offline on-device PDF utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
