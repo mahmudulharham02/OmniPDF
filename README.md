@@ -1,4 +1,4 @@
-# OmniPDF 📄
+# OmniPDF 
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -8,25 +8,25 @@
 
 A powerful, privacy-focused, all-in-one PDF toolkit that runs entirely on your Android device.
 
-## ✨ Features
+##  Features
 
 OmniPDF offers a complete suite of PDF utilities to handle all your document needs:
 
-- **📱 Document Scanning** - Convert physical documents into digital PDFs with high-quality scanning
-- **👁️ PDF Viewing** - Read and navigate PDF documents smoothly and efficiently
-- **🔗 Merging** - Combine multiple PDF files into a single document
-- **✂️ Splitting** - Divide PDF documents into separate files by page
-- **✍️ Digital Signing** - Sign PDF documents with digital signatures
-- **🔐 Encryption** - Secure your PDFs with password protection
-- **💧 Watermarking** - Add watermarks to your PDF pages
-- **🖼️ PDF-to-Image Conversion** - Convert PDF pages to image formats
-- **🏞️ Image Extraction** - Extract images embedded in PDF documents
+- ** Document Scanning** - Convert physical documents into digital PDFs with high-quality scanning
+- ** PDF Viewing** - Read and navigate PDF documents smoothly and efficiently
+- ** Merging** - Combine multiple PDF files into a single document
+- ** Splitting** - Divide PDF documents into separate files by page
+- ** Digital Signing** - Sign PDF documents with digital signatures
+- ** Encryption** - Secure your PDFs with password protection
+- ** Watermarking** - Add watermarks to your PDF pages
+- ** PDF-to-Image Conversion** - Convert PDF pages to image formats
+- ** Image Extraction** - Extract images embedded in PDF documents
 
-## 🔒 Privacy First
+##  Privacy First
 
 OmniPDF is designed with privacy in mind. All processing happens locally on your device—no data is sent to external servers or third-party services. Your documents remain completely under your control.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Android device (version 5.1 or higher)
@@ -46,12 +46,7 @@ cd OmniPDF
 ./gradlew build
 ```
 
-## 💻 Technology Stack
-
-- **Language**: Kotlin 100%
-- **Platform**: Android
-
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! To contribute:
 
@@ -61,6 +56,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 💬 Support
+##  Support
 
 For issues, bug reports, or feature requests, please [open an issue](https://github.com/mahmudulharham02/OmniPDF/issues) on GitHub.
