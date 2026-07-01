@@ -23,7 +23,7 @@ OmniPDF is designed with privacy in mind. All processing happens locally on your
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Android device (version X.X or higher)
+- Android device (version 5.1 or higher)
 - Kotlin development environment (for development)
 
 ### Installation
@@ -44,10 +44,6 @@ cd OmniPDF
 
 - **Language**: Kotlin 100%
 - **Platform**: Android
-
-## 📝 Usage
-
-[Add usage instructions and examples here]
 
 ## 🤝 Contributing
 
