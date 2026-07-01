@@ -12,15 +12,15 @@ A powerful, privacy-focused, all-in-one PDF toolkit that runs entirely on your A
 
 OmniPDF offers a complete suite of PDF utilities to handle all your document needs:
 
-- ** Document Scanning** - Convert physical documents into digital PDFs with high-quality scanning
-- ** PDF Viewing** - Read and navigate PDF documents smoothly and efficiently
-- ** Merging** - Combine multiple PDF files into a single document
-- ** Splitting** - Divide PDF documents into separate files by page
-- ** Digital Signing** - Sign PDF documents with digital signatures
-- ** Encryption** - Secure your PDFs with password protection
-- ** Watermarking** - Add watermarks to your PDF pages
-- ** PDF-to-Image Conversion** - Convert PDF pages to image formats
-- ** Image Extraction** - Extract images embedded in PDF documents
+- **Document Scanning** - Convert physical documents into digital PDFs with high-quality scanning
+- **PDF Viewing** - Read and navigate PDF documents smoothly and efficiently
+- **Merging** - Combine multiple PDF files into a single document
+- **Splitting** - Divide PDF documents into separate files by page
+- **Digital Signing** - Sign PDF documents with digital signatures
+- **Encryption** - Secure your PDFs with password protection
+- **Watermarking** - Add watermarks to your PDF pages
+- **PDF-to-Image Conversion** - Convert PDF pages to image formats
+- **Image Extraction** - Extract images embedded in PDF documents
 
 ##  Privacy First
 
